@@ -5,7 +5,7 @@
 
 OpenAI function-calling tools for **real-time prediction market data**. Drop-in
 function definitions + dispatcher for the Chat Completions API and the OpenAI
-Agents SDK. World awareness from 30,000+ Kalshi and Polymarket contracts —
+Agents SDK. World awareness from the active Kalshi and Polymarket market universe —
 no auth required.
 
 ```ts
